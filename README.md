@@ -35,7 +35,7 @@ Berikut dashboard interaktif yang dapat dieksplorasi secara langsung melalui Goo
 https://datastudio.google.com/reporting/d9ebdcb6-f087-4888-bd14-1a0716777eed
 <img width="2500" height="3020" alt="Kimia Farma Business Performance - PBI Rakamin" src="https://github.com/user-attachments/assets/bc9c8bb3-f635-46c7-a7cf-6c25c128a6cc" />
 
-## 📊 Dashboard Highlights
+## 📊 Insights
 - Kimia Farma menghasilkan net sales sebesar Rp321,17 miliar dan net profit sebesar Rp91,21 miliar dari 672,5 ribu transaksi selama periode 2020–2023. Nilai average order value (AOV) tercatat sebesar Rp477,61 ribu, dengan rata-rata transaction rating 4,00 dan branch rating 4,45.
 - Tren net sales dan net profit menunjukkan pola yang relatif stabil sepanjang periode analisis dengan pergerakan yang cenderung searah. Fluktuasi pada net profit mengikuti perubahan net sales, mengindikasikan bahwa pertumbuhan penjualan berkontribusi langsung terhadap peningkatan profit perusahaan.
 - Jawa Barat menjadi provinsi dengan kontribusi terbesar terhadap kinerja perusahaan, mencatat net sales sebesar Rp94,87 miliar, net profit sebesar Rp26,94 miliar, dan 198,72 ribu transaksi, menjadikannya wilayah dengan performa terbaik selama periode analisis.
