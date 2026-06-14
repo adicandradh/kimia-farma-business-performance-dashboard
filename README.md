@@ -1,4 +1,3 @@
-<img width="2500" height="3020" alt="Kimia Farma Business Performance" src="https://github.com/user-attachments/assets/2036d36d-fd99-4627-a420-f9f7c6c48062" />
 # Kimia Farma Business Performance Dashboard (Google Looker Studio)
 ## 📌 Project Type
 Final Project Big Data Analytics Virtual Internship Program – Kimia Farma x Rakamin Academy
