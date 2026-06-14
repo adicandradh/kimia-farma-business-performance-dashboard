@@ -1,3 +1,4 @@
+<img width="2500" height="3020" alt="Kimia Farma Business Performance" src="https://github.com/user-attachments/assets/2036d36d-fd99-4627-a420-f9f7c6c48062" />
 # Kimia Farma Business Performance Dashboard (Google Looker Studio)
 ## 📌 Project Type
 Final Project Big Data Analytics Virtual Internship Program – Kimia Farma x Rakamin Academy
@@ -33,7 +34,7 @@ Fokus utama dari project ini adalah mengolah data transaksi, produk, dan cabang 
 ## 🖼️ Preview
 Berikut dashboard interaktif yang dapat dieksplorasi secara langsung melalui Google Looker Studio:
 https://datastudio.google.com/reporting/d9ebdcb6-f087-4888-bd14-1a0716777eed
-<img width="2500" height="3020" alt="Kimia Farma Business Performance - PBI Rakamin" src="https://github.com/user-attachments/assets/bc9c8bb3-f635-46c7-a7cf-6c25c128a6cc" />
+<img width="2500" height="3020" alt="Kimia Farma Business Performance" src="https://github.com/user-attachments/assets/a35fce7e-e281-4fc3-a833-88a209a24cdb" />
 
 ## 📊 Insights
 - Kimia Farma menghasilkan net sales sebesar Rp321,17 miliar dan net profit sebesar Rp91,21 miliar dari 672,5 ribu transaksi selama periode 2020–2023. Nilai average order value (AOV) tercatat sebesar Rp477,61 ribu, dengan rata-rata transaction rating 4,00 dan branch rating 4,45.
