@@ -1,6 +1,6 @@
 # Kimia Farma Business Performance Dashboard
 ## 📌 Project Type
-Final Project Big Data Analytics Virtual Internship Program – Kimia Farma x Rakamin Academy
+Project-Based Internship: Big Data Analytics – Kimia Farma x Rakamin Academy
 ## 📊 Overview
 Project ini merupakan dashboard interaktif berbasis Google Looker Studio yang dikembangkan untuk menganalisis performa bisnis Kimia Farma selama periode 2020–2023.
 
